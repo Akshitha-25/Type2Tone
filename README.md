@@ -48,7 +48,7 @@ Type2Tone/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Type2Tone.git
+git clone https://github.com/Akshitha-25/Type2Tone.git
 ```
 
 2. Open the project folder in **Visual Studio Code**.
@@ -88,10 +88,9 @@ git clone https://github.com/your-username/Type2Tone.git
 
 ## 👨‍💻 Pinnasi Akshitha
 
-**Your Name**
 
-- GitHub: https://github.com/your-username
-- Email: your-email@example.com
+- GitHub: https://github.com/Akshitha-25/Type2Tone.git
+
 
 ## 📄 License
 
